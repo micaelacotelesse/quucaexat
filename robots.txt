@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://awuachook.philparsons.co.uk/sitemap.xml
